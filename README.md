@@ -6,7 +6,6 @@ This project is a demo showcasing clean architecture, state management, and reus
 ---
 
 ## 🚀 Features
-- 📱 Cross-platform (Android & iOS)
 - 🛍️ Product listing & details
 - 🔍 Search & filters
 - 🛒 Shopping cart
